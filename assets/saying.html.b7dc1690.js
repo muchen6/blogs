@@ -1,0 +1,1 @@
+const e={key:"v-7ce4735a",path:"/chen/saying.html",title:"\u559C\u8A00\u559C\u8BED",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16502504e5,contributors:[{name:"muchen0905",email:"1832612650@qq.com",commits:1}]},filePathRelative:"chen/saying.md"};export{e as data};

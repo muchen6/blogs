@@ -1,0 +1,1 @@
+const t={key:"v-fc7f829e",path:"/tools/uuid.html",title:"uuid",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16502504e5,contributors:[{name:"muchen0905",email:"1832612650@qq.com",commits:1}]},filePathRelative:"tools/uuid.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-312f8ea1",path:"/chen/flight.html",title:"\u98DE\u884C\u65E5\u8BB0 \u2708\uFE0F",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16502504e5,contributors:[{name:"muchen0905",email:"1832612650@qq.com",commits:1}]},filePathRelative:"chen/flight.md"};export{e as data};
